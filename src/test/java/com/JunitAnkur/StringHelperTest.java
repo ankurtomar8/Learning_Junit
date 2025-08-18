@@ -6,7 +6,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class StringHelperTest {
 
-    private StringHelper helper = new StringHelper();
+    private StringHelper helper;
+
+    @org.junit.Before
+    public void before(){
+        helper = new StringHelper();
+    }
 
     @org.junit.jupiter.api.Test
     void testTruncateAInFirst2Positions() {
