@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d6523a0-d201-454f-9ce4-43d205586d23" name="Changes" comment="[Junit] Learning Junit Framework for Unit test &#10;&#10;[Desc] Setup and Runing first Junit completed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ankurtomar8"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ankurtomar8/Learning_Junit.git",
+    "accountId": "020433a1-e1b6-45d6-80c8-9f59cecab4b4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="31NgdHydUUHMrcpQjnf6cN5jBnG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.StringHelperTest.areFirstAndLastTwoCharactersTheSame.executor": "Run",
+    "JUnit.StringHelperTest.executor": "Run",
+    "JUnit.StringHelperTest.truncateAInFirst2Positions.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "learn__junit",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/JavaTest/JunitTest/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.JunitAnkur" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.JunitAnkur" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StringHelperTest.areFirstAndLastTwoCharactersTheSame">
+    <configuration name="StringHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JunitAnkur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.JunitAnkur" />
+      <option name="MAIN_CLASS_NAME" value="com.JunitAnkur.StringHelperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringHelperTest.areFirstAndLastTwoCharactersTheSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JunitAnkur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.JunitAnkur" />
+      <option name="MAIN_CLASS_NAME" value="com.JunitAnkur.StringHelperTest" />
+      <option name="METHOD_NAME" value="areFirstAndLastTwoCharactersTheSame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringHelperTest.testTruncateAInFirst2PositionsAnother" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JunitAnkur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.JunitAnkur" />
+      <option name="MAIN_CLASS_NAME" value="com.JunitAnkur.StringHelperTest" />
+      <option name="METHOD_NAME" value="testTruncateAInFirst2PositionsAnother" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringHelperTest.truncateAInFirst2Positions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JunitAnkur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.JunitAnkur" />
+      <option name="MAIN_CLASS_NAME" value="com.JunitAnkur.StringHelperTest" />
+      <option name="METHOD_NAME" value="truncateAInFirst2Positions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringHelperTest.truncateAInFirst2Positions" />
+        <item itemvalue="JUnit.StringHelperTest.testTruncateAInFirst2PositionsAnother" />
+        <item itemvalue="JUnit.StringHelperTest.areFirstAndLastTwoCharactersTheSame" />
+        <item itemvalue="JUnit.StringHelperTest" />
+        <item itemvalue="JUnit.StringHelperTest.truncateAInFirst2Positions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d6523a0-d201-454f-9ce4-43d205586d23" name="Changes" comment="" />
+      <created>1755370030236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755370030236</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[Junit] Learning Junit Framework for Unit test &#10;&#10;[Desc] Setup and Runing first Junit completed">
+      <option name="closed" value="true" />
+      <created>1755450961066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755450961066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Junit] Learning Junit Framework for Unit test &#10;&#10;[Desc] Setup and Runing first Junit completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Junit] Learning Junit Framework for Unit test &#10;&#10;[Desc] Setup and Runing first Junit completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/JunitAnkur/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
